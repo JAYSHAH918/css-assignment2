@@ -1,0 +1,38 @@
+﻿body {
+    margin-left:250px;
+    margin-right:250px;
+}
+
+.main1 h1 {
+    text-align: center;
+}
+.main1 p{
+    margin-left:120px;
+}
+.main1 {
+   // margin-left:250px;
+    background-color: #FF9999;
+    
+   // margin-right:250px;
+    
+}
+
+img{
+
+}
+.main21 {
+    color: white;
+    background-image: url("Assignment-2-img-1.jpg");
+    height: 400px;
+    width:150%;
+    text-anchor:middle;
+    text-align:center;
+}
+.main22 {
+    background-color: #ECECFB;
+    text-align:center;
+}
+.main2 {
+    
+    display: flex;
+}
